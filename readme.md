@@ -17,3 +17,6 @@ Tools and technologies implemented:
 - Postman Client
 - AWS RDS service
 - AWS Elastic beanstalk service
+
+# Diagram of service
+![diagram arq](https://i.ibb.co/9gmYWhv/springbootawsmysql.png)
